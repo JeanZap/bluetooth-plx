@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bluetooth-plx",
+    "slug": "bluetooth-plx",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bluetooth-plx"
+}
